@@ -43,5 +43,3 @@ data.head()
 #export the processed data and label to the processed folder
 dp.save_data(data, 'train_proc')
 dp.save_data(label, 'train_labels')
-
-
